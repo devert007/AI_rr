@@ -1,1 +1,1 @@
-# AI_rr
+# Repository of calculation works of speciality AI
